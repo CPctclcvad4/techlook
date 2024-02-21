@@ -1,0 +1,3 @@
+FROM tomcat:8.0,20-jre8
+MAINTAINER abhiroyalsd3@gmail.com
+COPY target/copied snapshot(space)/usr/local/tomcat/webapps/copiedsnapshot
